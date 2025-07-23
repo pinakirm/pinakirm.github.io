@@ -443,7 +443,7 @@ ninja.data = [{
             },},{id: "news-earned-my-bachelors-in-computer-science-from-purdue-university",
           title: 'Earned my Bachelors in Computer Science from Purdue University!',
           description: "",
-          section: "News",},{id: "news-as-a-purdue-cs-ms-student-and-alum-i-shared-why-staying-at-purdue-for-graduate-studies-is-a-smart-choice-highlighting-flexible-programs-teaching-assistantships-and-exciting-ai-ml-research-opportunities-read-more-here-smile",
+          section: "News",},{id: "news-as-a-purdue-cs-ms-student-and-alum-i-shared-why-staying-at-purdue-for-graduate-studies-is-a-smart-choice-highlighting-flexible-programs-teaching-assistantships-and-exciting-ai-ml-research-opportunities-read-more-here",
           title: 'As a Purdue CS MS student and alum, I shared why staying at...',
           description: "",
           section: "News",},{id: "news-i-was-included-in-the-purdue-cs-60th-anniversary-feature-series-boiler-up",
