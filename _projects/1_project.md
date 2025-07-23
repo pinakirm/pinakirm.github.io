@@ -1,81 +1,51 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Connect 4
+description: A 2-player alignment game in Java
+img: /assets/img/games/connect4.png  # Optional: placeholder or later screenshot
 importance: 1
-category: work
-related_publications: true
+category: games
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+> **Personal Project**  
+> A 2-player Connect 4 game using 2D arrays in Java. The game simulates a grid-based playfield and checks for **horizontal**, **vertical**, or **diagonal alignments of length four** to declare a winner. A tie is declared when the board fills up without any winning alignment.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project deepened my understanding of:
+- Array-based data representation
+- Input handling with `Scanner`
+- Game loop mechanics and board visualization
+- Edge case handling for full columns and ties
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### 💻 Gameplay Overview
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Players alternate turns, choosing a column to drop their token:
+- Player 1 is `'O'`
+- Player 2 is `'X'`
+- The board updates automatically and checks for a winner
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### 🔗 GitHub Repository
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+[View Full Code on GitHub]([https://github.com/yourusername/connect4](https://github.com/pinakirm/Connect-Four)
 
-{% raw %}
+---
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+### 🔍 Code Snippet
 
-{% endraw %}
+```java
+public char checkAlignment(int row, int column) {
+    for (int i = 0; i <= 2; i++) {
+        for (int j = 0; j <= 3; j++) {
+            if (board[i][j] != empty &&
+                board[i][j] == board[i+1][j+1] &&
+                board[i+1][j+1] == board[i+2][j+2] &&
+                board[i+2][j+2] == board[i+3][j+3]) {
+                return board[i][j];
+            }
+        }
+    }
+    // [similar checks for other directions...]
+    return empty;
+}
