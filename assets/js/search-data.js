@@ -455,7 +455,7 @@ ninja.data = [{
           section: "News",},{id: "news-earned-my-masters-degree-in-computer-science-from-purdue-university",
           title: 'Earned my Masters degree in Computer Science from Purdue University!',
           description: "",
-          section: "News",},{id: "news-grateful-to-receive-the-graduate-teaching-assistant-award-from-purdue-cs-for-my-work-in-cs-57800-statistical-machine-learning-fall-2023",
+          section: "News",},{id: "news-grateful-to-receive-the-graduate-teaching-assistant-award-from-purdue-cs-for-my-performance-in-cs-57800-statistical-machine-learning-fall-2023",
           title: 'Grateful to receive the Graduate Teaching Assistant Award from Purdue CS for my...',
           description: "",
           section: "News",},{id: "news-presented-a-poster-on-my-paper-edlp-at-mmls-midwest-machine-learning-symposium-uchicago-campus-is-beautiful",
