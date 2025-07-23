@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: <a href="mailto:pmohanty@purdue.edu">pmohanty@purdue.edu</a>.</p>
+    <p>Email: <a href="mailto:pmohanty@purdue.edu">pmohanty@purdue.edu</a></p>
     <p>Hall of Data Science and AI</p>
     <p>475 Stadium Mall Drive, West Lafayette, IN 47907</p>
 
