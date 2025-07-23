@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Earned my B.S. in C.S. from Purdue University!
+Earned my Bachelors in Computer Science from Purdue University!
