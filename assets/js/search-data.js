@@ -448,9 +448,9 @@ ninja.data = [{
           description: "A 2-player alignment game in Java",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-rpn-expression-evaluator",
+          title: 'RPN Expression Evaluator',
+          description: "A Java program to parse and evaluate infix expressions using stacks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
