@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -450,9 +443,9 @@ ninja.data = [{
           section: "News",},{id: "news-got-the-summer-commute-grant-thank-you-pgsg",
           title: 'Got the Summer Commute Grant. Thank You PGSG!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-connect-4",
+          title: 'Connect 4',
+          description: "A 2-player alignment game in Java",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
