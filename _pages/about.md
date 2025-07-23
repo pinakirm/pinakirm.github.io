@@ -31,3 +31,5 @@ My research focuses on bridging Statistical foundations of Machine Learning with
 In Summer 2023, I completed my M.S. in Computer Science and Statistics at Purdue, where my thesis centered on  Contextual Bandits under sub-region-based disagreement for Active Learning. Prior to that, I received my B.S. in Computer Science from Purdue in Spring 2021, specializing in Machine Learning, Theoretical Computer Science, and Databases & Information Systems, with minors in Mathematics and Statistics.
 
 If you’re another researcher, outside Purdue, working in Machine Learning, Mathematical Statistics, or Healthcare+AI( a field I am deeply passionate about!), please feel free to email me. I welcome conversations about potential research collaborations and ways my expertise might be helpful. For current Purdue students interested in working with me, please email me to set up a one-off coffee chat if you’d like to discuss some research ideas. 
+
+CV: Available upon request. Please feel free to email me if you’d like a copy.
