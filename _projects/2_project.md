@@ -1,81 +1,72 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: RPN Expression Evaluator
+description: A Java program to parse and evaluate infix expressions using stacks
+img: /assets/img/games/rpn_stack.png  # Optional: add a diagram or screenshot
+importance: 1
+category: theory
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+> **Personal Project**  
+> This Java program parses and evaluates **infix expressions** by internally converting them to **Reverse Polish Notation (RPN)** using custom-built **stack-based logic**. It handles a wide range of operators and parentheses — including `+`, `-`, `*`, `/`, `^`, `sin`, `cos`, `log`, and complex nested expressions.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+---
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### 💡 Features
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- ✅ Custom **generic Stack<T>** implementation from scratch (no `java.util.Stack`)
+- ✅ Expression validation with error handling for:
+  - Unmatched parentheses
+  - Consecutive operators
+  - Empty expressions
+  - Division by zero (handled with `NaN`, `Infinity`, `-Infinity`)
+- ✅ Supports **unary operators** like `sin`, `cos`, `log`
+- ✅ File-based batch evaluation via `input.txt`
+- ✅ Throws clear, customized error messages for malformed inputs
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+---
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### 🔗 GitHub Repository
 
-{% raw %}
+[View Full Code on GitHub](https://github.com/pinakirm/RPN-Calculator/tree/master)
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+---
 
-{% endraw %}
+### 🔧 Code Snippet: Stack Implementation
+
+```java
+public class Stack<T> {
+    private int top = -1;
+    private int capacity;
+    private ArrayList<T> arrayList = new ArrayList<>();
+
+    public Stack(int capacity) {
+        this.capacity = capacity;
+    }
+
+    public boolean push(T val) {
+        top++;
+        arrayList.add(top, val);
+        return true;
+    }
+
+    public T pop() throws IndexOutOfBoundsException {
+        if (top < 0) throw new IndexOutOfBoundsException("Empty Stack");
+        return arrayList.remove(top--);
+    }
+
+    public T peek() {
+        if (top < 0) throw new IndexOutOfBoundsException("Empty Stack");
+        return arrayList.get(top);
+    }
+
+    public boolean isEmpty() {
+        return top < 0;
+    }
+
+    public int size() {
+        return arrayList.size();
+    }
+}
