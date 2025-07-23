@@ -440,14 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-earned-my-bachelors-in-computer-science-from-purdue-university",
+            },},{id: "news-earned-my-bachelors-in-computer-science-from-purdue-university",
           title: 'Earned my Bachelors in Computer Science from Purdue University!',
           description: "",
           section: "News",},{id: "news-as-a-purdue-cs-ms-student-and-alum-i-shared-why-staying-at-purdue-for-graduate-studies-is-a-smart-choice-highlighting-flexible-programs-teaching-assistantships-and-exciting-ai-ml-research-opportunities-read-more-here-smile",
           title: 'As a Purdue CS MS student and alum, I shared why staying at...',
+          description: "",
+          section: "News",},{id: "news-i-was-included-in-the-purdue-cs-60th-anniversary-feature-series-boiler-up",
+          title: 'I was included in the Purdue CS 60th Anniversary feature series 🚂💛🖤! Boiler...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
