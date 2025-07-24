@@ -468,9 +468,9 @@ ninja.data = [{
           description: "A program designed to answer genealogy queries using graph algorithms, including finding Least Common Ancestors and analyzing familial relationships.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
