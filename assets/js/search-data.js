@@ -483,9 +483,9 @@ ninja.data = [{
           description: "Construction and empirical analysis of a cryptographic length-doubling PRG, built from a given OWP.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-project-dish-recommendation-system-with-collaborative-filtering-and-clustering",
+          title: 'Project: Dish Recommendation System with Collaborative Filtering and Clustering',
+          description: "A machine learning project exploring two models—collaborative filtering and ingredient-based clustering—for restaurant dish recommendations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
