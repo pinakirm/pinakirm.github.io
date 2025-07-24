@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sequence Alignment: DNA Protein with BLOSUM62
+title: Sequence Alignment of DNA Proteins with BLOSUM62
 description: Python program for global and local sequence alignment between DNA and protein using BLOSUM62 and gap penalties.
 importance: 2
 category: science
