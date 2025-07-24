@@ -478,9 +478,9 @@ ninja.data = [{
           description: "Statistical analysis of protein and DNA sequence evolution using k-mer comparisons and randomization.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-length-doubling-pseudorandom-generator-from-one-way-permutation",
+          title: 'Length-Doubling Pseudorandom Generator from One-Way Permutation',
+          description: "Construction and empirical analysis of a cryptographic length-doubling PRG, built from a given OWP.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
