@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-graduated-from-purdue-university-with-a-b-s-in-computer-science-and-minors-in-math-and-statistics-earning-dean-s-list-honors-every-semester-8-8-semesters",
-          title: 'Graduated from Purdue University with a B.S. in Computer Science and minors in...',
+            },},{id: "news-graduated-from-purdue-university-with-a-bachelors-in-computer-science-and-minors-in-math-and-statistics-earning-dean-s-list-honors-every-semester-8-8-semesters",
+          title: 'Graduated from Purdue University with a Bachelors in Computer Science and minors in...',
           description: "",
           section: "News",},{id: "news-started-my-joint-ms-in-cs-stat-at-purdue",
           title: 'Started my Joint MS in CS+STAT at Purdue!',
@@ -415,6 +415,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-earned-my-masters-degree-in-computer-science-from-purdue-university",
           title: 'Earned my Masters degree in Computer Science from Purdue University!',
+          description: "",
+          section: "News",},{id: "news-started-phd-in-computer-science-at-purdue-hammer-down-hail-purdue",
+          title: 'Started PhD in Computer Science at Purdue. Hammer Down. Hail Purdue !',
           description: "",
           section: "News",},{id: "news-grateful-to-receive-the-graduate-teaching-assistant-award-from-purdue-cs-for-my-performance-in-cs-57800-statistical-machine-learning-fall-2023",
           title: 'Grateful to receive the Graduate Teaching Assistant Award from Purdue CS for my...',
