@@ -3,7 +3,6 @@ layout: page
 title: Family Tree – Java
 description: A program designed to answer genealogy queries using graph algorithms, including finding Least Common Ancestors and analyzing familial relationships.
 category: theory
-Github: [Link](https://github.com/pinakirm/Family-Tree)
 importance: 3
 ---
 
@@ -81,5 +80,5 @@ Analyzing family history and genealogy is both a common hobby and a crucial task
 
 ---
 
-_See source code for implementation details and testing._
+_See source [code](https://github.com/pinakirm/Family-Tree) for implementation details and testing._
 
