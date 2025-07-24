@@ -9,9 +9,9 @@ importance: 3
 ## Overview
 
 **Class Analyzer** is a personal project aimed at helping Graduate Teaching Assistants (GTAs) efficiently manage student grades and analyze performance data visually. The tool allows GTAs to:
-- Change a student's grade directly.
+- Change a student's grade directly after verifying credentials.
 - View student grade histories.
-- Generate and analyze performance graphs.
+- Generate and analyze performance graphs using Canvas.JS, post authorization.
 
 The project is implemented using HTML and JavaScript, providing a simple, web-based interface for grade management and analytics.
 
