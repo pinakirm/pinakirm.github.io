@@ -1,80 +1,89 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Family Tree – Java
+description: A program designed to answer genealogy queries using graph algorithms, including finding Least Common Ancestors and analyzing familial relationships.
+category: theory
+Github: [Link](https://github.com/pinakirm/Family-Tree)
 importance: 3
-category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This Java project models a family tree as a graph (using adjacency lists), enabling advanced queries and relationship analysis between family members. It provides not just the basic genealogy structure, but also efficient algorithms to answer questions about ancestry and connections within the tree.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Key Features
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- **Graph-based Family Tree:**  
+  The family tree is internally represented as a graph, enabling scalable and flexible relationship modeling.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+- **Least Common Ancestor (LCA) Queries:**  
+  Implements Dijkstra’s Algorithm to efficiently find the least common ancestor between any two family members—a crucial operation for analyzing family genealogy and resolving queries such as “Who is the closest shared ancestor of X and Y?”
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+- **Relationship Finder:**  
+  Supports queries to determine the exact relationship between any two people in the family (e.g., parent, child, sibling, cousin).
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- **Random Family & Name Generator:**  
+  Includes utility classes to generate large, randomized family trees and names for comprehensive testing and experimentation.
 
-{% raw %}
+- **Interactive Testing:**  
+  The project comes with detailed test files and utilities for running and validating family relationship queries.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Motivation
 
-{% endraw %}
+Modern genealogy often requires complex relationship queries (especially for large families or historical records). Representing a family tree as a graph allows leveraging powerful algorithms for fast, reliable answers—enabling researchers or hobbyists to analyze ancestry at scale.
+
+## How It Works
+
+1. **FamilyTree.java:**  
+   - Builds the graph structure for the family tree.
+   - Stores parent-child relationships using adjacency lists.
+   - Provides methods for adding members, querying relationships, and finding ancestors.
+
+2. **FamilyTreeTest.java:**  
+   - Contains sample trees and automated tests.
+   - Demonstrates querying for LCAs and relationship paths.
+
+3. **RandomFamilyGenerator.java** & **RandomNameGenerator.java:**  
+   - Generate random names and family structures for robust testing.
+
+## Example Queries
+
+- **Find Least Common Ancestor:**  
+  > "Who is the nearest common ancestor of Alice and Bob?"
+
+- **Relationship Path:**  
+  > "What is the relationship between Mary and Tom?"
+
+- **Tree Generation:**  
+  > "Create a random family tree of 100 members for benchmarking."
+
+## Sample Output
+Nearest Common Ancestor of Alice and Bob: Grandparent
+Relationship between Mary and Tom: Cousins
+
+
+## Technologies Used
+
+- **Java** (Core logic, algorithms)
+- **Graph Theory** (Adjacency list, LCA, Dijkstra’s Algorithm)
+- **Randomization** (For generating sample data)
+
+## Getting Started
+
+- Clone the repo and run `FamilyTreeTest.java` to see example queries and outputs.
+- Use `RandomFamilyGenerator` to generate large trees for your own experiments.
+
+## What I Learned
+
+- How to model hierarchical relationships as graphs.
+- Applying graph algorithms (Dijkstra) to real-world ancestry queries.
+- Handling edge cases and complex queries in family relationships.
+
+## Why This Project Matters
+
+Analyzing family history and genealogy is both a common hobby and a crucial task for historians. By combining graph theory with genealogy, this project enables fast, scalable, and accurate analysis of complex family relationships.
+
+---
+
+_See source code for implementation details and testing._
+
