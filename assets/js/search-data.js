@@ -468,9 +468,9 @@ ninja.data = [{
           description: "A program designed to answer genealogy queries using graph algorithms, including finding Least Common Ancestors and analyzing familial relationships.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-sequence-alignment-of-dna-proteins-with-blosum62",
+          title: 'Sequence Alignment of DNA Proteins with BLOSUM62',
+          description: "Python program for global and local sequence alignment between DNA and protein using BLOSUM62 and gap penalties.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
