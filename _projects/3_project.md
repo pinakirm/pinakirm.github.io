@@ -22,4 +22,4 @@ This project implements the Quicksort algorithm in Java with **five different pi
 - Counts and prints number of comparisons for each run
 - Easy to extend and experiment
 
-[GitHub Repository →](https://github.com/pinakirm/Quicksort-Analyzer)
+[GitHub Repository](https://github.com/pinakirm/Quicksort-Analyzer)
