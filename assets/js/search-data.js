@@ -443,7 +443,12 @@ ninja.data = [{
           section: "News",},{id: "news-got-the-summer-commute-grant-thank-you-pgsg",
           title: 'Got the Summer Commute Grant. Thank You PGSG!',
           description: "",
-          section: "News",},{id: "projects-connect-4",
+          section: "News",},{id: "projects-project-document-ranking-using-tf-idf-and-okapi-bm25",
+          title: 'Project: Document Ranking using TF-IDF and Okapi BM25',
+          description: "A comparative analysis of TF-IDF and Okapi BM25 on real-world information retrieval tasks.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-connect-4",
           title: 'Connect 4',
           description: "A 2-player alignment game in Java",
           section: "Projects",handler: () => {
