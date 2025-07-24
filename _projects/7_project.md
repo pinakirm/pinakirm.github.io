@@ -32,7 +32,7 @@ This project explores the statistical properties of sequence evolution in protei
    For each sequence, all overlapping k-mers of length `k` are generated (`x-k+1` k-mers per sequence, where `x` is sequence length).
 2. **Pairwise Scoring:**  
    Each pair of k-mers (from all sequences) is compared:
-   - **Protein:** Scoring uses the [BLOSUM62 matrix](blosum62.txt).
+   - **Protein:** Scoring uses the BLOSUM62 matrix.
    - **DNA:** 1 for a match, 0 for a mismatch.
 3. **Distribution Analysis:**  
    - All scores are tabulated into a histogram.
