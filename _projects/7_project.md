@@ -87,10 +87,10 @@ For each value of `k`:
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/seq-1.png" title="Protein sequence k-mer distribution" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/Screen Shot 2021-06-26 at 2.07.12 PM.png" title="Protein sequence k-mer distribution" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/seq-2.png" title="DNA sequence k-mer distribution" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/Screen Shot 2021-06-26 at 2.08.19 PM.png" title="DNA sequence k-mer distribution" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
