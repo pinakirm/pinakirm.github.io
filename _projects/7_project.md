@@ -84,19 +84,9 @@ For each value of `k`:
 
 **This approach provides statistical evidence for sequence evolution and structure at the k-mer level.**
 
+![Protein sequence k-mer distribution](/assets/img/Screen Shot 2021-06-26 at 2.07.12 PM.png)
+![DNA sequence k-mer distribution](assets/img/Screen Shot 2021-06-26 at 2.08.19 PM.png)
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Screen Shot 2021-06-26 at 2.07.12 PM.png" title="Protein sequence k-mer distribution" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Screen Shot 2021-06-26 at 2.08.19 PM.png" title="DNA sequence k-mer distribution" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Left: Score distribution for protein sequences.<br>
-  Right: Score distribution for DNA sequences.
-</div>
 
 ---
 
