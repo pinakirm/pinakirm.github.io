@@ -473,9 +473,9 @@ ninja.data = [{
           description: "Python program for global and local sequence alignment between DNA and protein using BLOSUM62 and gap penalties.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-sequence-evolution-and-k-mer-similarity-analysis",
+          title: 'Sequence Evolution and K-mer Similarity Analysis',
+          description: "Statistical analysis of protein and DNA sequence evolution using k-mer comparisons and randomization.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
