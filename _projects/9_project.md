@@ -99,6 +99,8 @@ python3 MODELPART2.py dishes.csv user_ratings_test.json 5
 - Clustering by dish ingredients (content-based) captures meaningful food similarities, producing better predictions and recommendations.
 - Higher cluster counts (K) generally improve model performance by capturing finer-grained food preferences.
 
+Please see this class report for additional insights:[Report](https://github.com/pinakirm/W2E/blob/main/reporpt2.pdf)
+
 ---
 
 ## How to Use
