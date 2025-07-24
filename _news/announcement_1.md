@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Earned my Bachelors in Computer Science from Purdue University!
+Graduated from Purdue University with a B.S. in Computer Science and minors in Math and Statistics, earning Dean’s List honors every semester (8/8 semesters)!
