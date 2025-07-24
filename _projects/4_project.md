@@ -1,80 +1,55 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: Class Analyzer — GTA Grade and Performance Tool
+description: Personal Project | Website to help Graduate Teaching Assistants (GTAs) manage, change, and analyze student grades using interactive graphs.
 category: fun
+importance: 3
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Class Analyzer** is a personal project aimed at helping Graduate Teaching Assistants (GTAs) efficiently manage student grades and analyze performance data visually. The tool allows GTAs to:
+- Change a student's grade directly.
+- View student grade histories.
+- Generate and analyze performance graphs.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The project is implemented using HTML and JavaScript, providing a simple, web-based interface for grade management and analytics.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Features
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+- **Grade Editing:** Easily update or change student grades.
+- **Performance Visualization:** View student and class performance trends via interactive graphs.
+- **User-Friendly Interface:** Designed for quick actions and data checks by GTAs.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Demo
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Watch a walkthrough video of the project here:  
+[YouTube Demo](https://www.youtube.com/watch?v=-EFIhJOTr34)
 
-{% raw %}
+## Repository Structure
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Some of the main files:
+- `index.html` — Landing page and main interface.
+- `graph.html` — Visualization and graphing of performance data.
+- `choice.html` — Grade choice and actions.
+- `first.js`, `second.js`, `third.js` — Main JavaScript logic for data handling and UI actions.
+- `update.html` — Page for updating student grades.
 
-{% endraw %}
+The project is built using plain HTML and JavaScript — no frameworks needed!
+
+## Usage
+
+1. **Clone or download** the repository.
+2. Open `index.html` in your browser.
+3. Use the interface to view, update, or analyze student grades.
+
+---
+
+**Project Link:**  
+[GitHub Repository: Class Analyzer](https://github.com/pinakirm/Class-Analyzer)  
+**Demo Video:**  
+[YouTube: Class Analyzer Demo](https://www.youtube.com/watch?v=-EFIhJOTr34)
+
+---
+
+> _A simple, practical tool for academic grading and data analysis for GTAs._
