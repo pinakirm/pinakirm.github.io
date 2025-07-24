@@ -458,9 +458,9 @@ ninja.data = [{
           description: "Java implementation to analyze the effect of pivot choice in Quicksort",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-class-analyzer-gta-grade-and-performance-tool",
+          title: 'Class Analyzer — GTA Grade and Performance Tool',
+          description: "Personal Project | Website to help Graduate Teaching Assistants (GTAs) manage, change, and analyze student grades using interactive graphs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
