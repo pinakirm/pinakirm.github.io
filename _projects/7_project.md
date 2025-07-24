@@ -3,6 +3,7 @@ layout: page
 title: Sequence Evolution and K-mer Similarity Analysis
 description: Statistical analysis of protein and DNA sequence evolution using k-mer comparisons and randomization.
 importance: 3
+img: /assets/img/Screen Shot 2021-06-26 at 2.07.12 PM.png
 category: science
 ---
 
@@ -84,8 +85,8 @@ For each value of `k`:
 
 **This approach provides statistical evidence for sequence evolution and structure at the k-mer level.**
 
-![Protein sequence k-mer distribution](/assets/img/Screen Shot 2021-06-26 at 2.07.12 PM.png)
-![DNA sequence k-mer distribution](assets/img/Screen Shot 2021-06-26 at 2.08.19 PM.png)
+![Protein sequence k-mer distribution](/assets/img/Screen%20Shot%202021-06-26%20at%202.07.12%20PM.png)
+![DNA sequence k-mer distribution](/assets/img/Screen%20Shot%202021-06-26%20at%202.08.19%20PM.png)
 
 
 ---
