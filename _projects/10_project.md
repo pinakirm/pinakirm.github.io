@@ -2,7 +2,7 @@
 layout: page
 title: "Project: Document Ranking using TF-IDF and Okapi BM25"
 description: "A comparative analysis of TF-IDF and Okapi BM25 on real-world information retrieval tasks."
-category: work
+category: ml
 importance: 3
 ---
 
