@@ -94,8 +94,8 @@ For each value of `k`:
 
 
 ---
+### Code
+[Link](https://github.com/pinakirm/Sequence_Evolution)
 
 ### References
-
-- BLOSUM62 scoring: [blosum62.txt](blosum62.txt)
 - UShuffle (for sequence randomization): [Publication link](https://academic.oup.com/bioinformatics/article/24/9/1013/206288)
