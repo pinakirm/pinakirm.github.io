@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Family Tree – Java
@@ -56,10 +57,6 @@ Modern genealogy often requires complex relationship queries (especially for lar
 
 - **Tree Generation:**  
   > "Create a random family tree of 100 members for benchmarking."
-
-## Sample Output
-> "Nearest Common Ancestor of Alice and Bob: Grandparent"
-> "Relationship between Mary and Tom: Cousins"
 
 
 ## Technologies Used
