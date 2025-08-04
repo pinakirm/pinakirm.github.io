@@ -38,6 +38,9 @@ Below are my course evaluations.
 -->
 
 
+
+
+
 [^labs]: PSO sections typically enroll ≈23–25 students/section.
 [^teams]: Capstone teams typically include ≈9–10 students/team.
 
