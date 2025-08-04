@@ -22,13 +22,13 @@ Below is a structured summary of the courses I've assisted with at Purdue Univer
 | CS 25100      | Data Structures & Algorithms   | Melanie Lotz                  | UG     | UTA  | Spring 2019            | 2[^labs]                                            |  
 
 
-| Course        | Term                         | Clarity of Expression | Responsiveness | Empathy | Availability | Fairness in Assessment  | Classroom Inclusivity | Helpfulness|  Communication| Reliability|  Diligence | Timely Feeback|
-|---------------|--------------------------------|-------------------------------|--------|------|------------------------|-----------------------------------
-| CS/STAT 24200 | Fall 2024   | 4.29  | 4.14 | 4.29  | 4.43 | 4.29 | 4.43 | 4.20 | 4.20 | 4.20   | -  | -| -|
-| CS 17600      | Spring 2024 | 4.34  | 4.33 | 4.33 | 4.46 |4.46 |4.40| 4.52 | 4.56 | 4.48  | - | - |
-| CS 17600      | Spring 2023 | 4.27 | 4.40 | 4.33| 4.33 | 4.27| 4.67 | -| - |  - |  - | 4.36| 4.50|
-| CS 57800      | Fall 2023  | 3.81| 3.94 | 3.90 | 3.87 | 3.97 | 4.03 | 3.87| 4.13 | 4.03 | - | -|
-| CS 25100      | Fall 2021  |  4.14 | 3.71 | 4.29 | 4.14 | 3.86 | 4.00 | 4.00| 4.14 | 4.14 | - | - | -|
+| Course        | Term        | Clarity of Expression | Responsiveness | Empathy | Availability | Fairness in Assessment | Classroom Inclusivity | Helpfulness | Communication | Reliability | Diligence | Timely Feedback |
+|--------------|-------------|-----------------------|----------------|---------|--------------|------------------------|-----------------------|-------------|---------------|------------|-----------|-----------------|
+| CS/STAT 24200 | Fall 2024   | 4.29                  | 4.14           | 4.29    | 4.43         | 4.29                   | 4.43                  | 4.20        | 4.20          | 4.20       | —         | —               |
+| CS 17600      | Spring 2024 | 4.34                  | 4.33           | 4.33    | 4.46         | 4.46                   | 4.40                  | 4.52        | 4.56          | 4.48       | —         | —               |
+| CS 17600      | Spring 2023 | 4.27                  | 4.40           | 4.33    | 4.33         | 4.27                   | 4.67                  | —           | —             | —          | 4.36      | 4.50            |
+| CS 57800      | Fall 2023   | 3.81                  | 3.94           | 3.90    | 3.87         | 3.97                   | 4.03                  | 3.87        | 4.13          | 4.03       | —         | —               |
+| CS 25100      | Fall 2021   | 4.14                  | 3.71           | 4.29    | 4.14         | 3.86                   | 4.00                  | 4.00        | 4.14          | 4.14       | —         | —               |
 
 
 
