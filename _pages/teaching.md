@@ -21,7 +21,7 @@ Below is a structured summary of the courses I've assisted with at Purdue Univer
 | CS 25100      | Data Structures & Algorithms   | Dr. Gustavo Rodriguez-Rivera  | UG     | UTA  | Fall 2019              | 1[^labs]                                           |
 | CS 25100      | Data Structures & Algorithms   | Melanie Lotz                  | UG     | UTA  | Spring 2019            | 2[^labs]                                            |  
 
-{% comment %}
+<!--
 
 Below are my course evaluations.
 
@@ -35,7 +35,7 @@ Below are my course evaluations.
 | CS 57800      | Fall 2023    |   3.81  |          3.94  |   3.90  |        3.87  |    3.97  |       4.03  |       3.87  |         4.13  |       4.03  |         — |         —  |
 | CS 25100      | Fall 2021    |   4.14  |          3.71  |   4.29  |        4.14  |    3.86  |       4.00  |       4.00  |         4.14  |       4.14  |         — |         —  |
 
-{% endcomment %}
+-->
 
 
 [^labs]: PSO sections typically enroll ≈23–25 students/section.
