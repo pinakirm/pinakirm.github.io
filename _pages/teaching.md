@@ -27,7 +27,8 @@ Below are my course evaluations.
 
 **Note:** Scores are on a 1–5 scale (5 = highest). An em dash (—) indicates the question was not asked that term.
 
-| Course        | Term        | Clarity of Expression | Responsiveness | Empathy | Availability | Fairness in Assessment | Classroom Inclusivity | Helpfulness | Communication | Reliability | Diligence | Timely Feedback |
+| Course        | Term        | Clarity  | Responsiveness | Empathy | Availability | Fairness | Inclusivity | Helpfulness | Communication | Reliability | Diligence | Engagement
+ |
 |--------------|-------------|-----------------------|----------------|---------|--------------|------------------------|-----------------------|-------------|---------------|------------|-----------|-----------------|
 | CS/STAT 24200 | Fall 2024   | 4.29                  | 4.14           | 4.29    | 4.43         | 4.29                   | 4.43                  | 4.20        | 4.20          | 4.20       | —         | —               |
 | CS 17600      | Spring 2024 | 4.34                  | 4.33           | 4.33    | 4.46         | 4.46                   | 4.40                  | 4.52        | 4.56          | 4.48       | —         | —               |
