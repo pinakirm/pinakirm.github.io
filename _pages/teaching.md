@@ -26,6 +26,7 @@ Below is a structured summary of the courses I've assisted with at Purdue Univer
 Below are my course evaluations.
 
 **Note:** Scores are on a 1–5 scale (5 = highest). An em dash (—) indicates the question was not asked that term.
+
 | Course        | Term         | Clarity | Responsiveness | Empathy | Availability | Fairness | Inclusivity | Helpfulness | Communication | Reliability | Diligence | Engagement |
 |:--------------|:-------------|--------:|---------------:|--------:|-------------:|---------:|------------:|------------:|--------------:|------------:|----------:|-----------:|
 | CS/STAT 24200 | Fall 2024    |   4.29  |          4.14  |   4.29  |        4.43  |    4.29  |       4.43  |       4.20  |         4.20  |       4.20  |         — |         —  |
