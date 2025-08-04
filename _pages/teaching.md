@@ -22,6 +22,11 @@ Below is a structured summary of the courses I've assisted with at Purdue Univer
 | CS 25100      | Data Structures & Algorithms   | Melanie Lotz                  | UG     | UTA  | Spring 2019            | 2[^labs]                                            |  
 
 
+
+Below are my course evaluations.
+
+**Note:** Scores are on a 1–5 scale (5 = highest). An em dash (—) indicates the question was not asked that term.
+
 | Course        | Term        | Clarity of Expression | Responsiveness | Empathy | Availability | Fairness in Assessment | Classroom Inclusivity | Helpfulness | Communication | Reliability | Diligence | Timely Feedback |
 |--------------|-------------|-----------------------|----------------|---------|--------------|------------------------|-----------------------|-------------|---------------|------------|-----------|-----------------|
 | CS/STAT 24200 | Fall 2024   | 4.29                  | 4.14           | 4.29    | 4.43         | 4.29                   | 4.43                  | 4.20        | 4.20          | 4.20       | —         | —               |
