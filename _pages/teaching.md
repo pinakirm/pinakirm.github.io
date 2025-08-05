@@ -11,6 +11,7 @@ Below is a structured summary of the courses I've assisted with at Purdue Univer
 
 | Course        | Title                          | Instructor                    | Level  | Role | Term(s)                | Units Led    |
 |---------------|--------------------------------|-------------------------------|--------|------|------------------------|-----------------------------------
+| CS 34800      | Information Systems            | Dr. Hisham Benotman           | UG     | GTA  | Fall 2025              | 1[^labs]                               |
 | CS 44100      | Data Science Capstone          | Dr. Anthony Bergstrom         | UG     | GTA  | Spring 2025            | 4[^teams]                               |
 | CS/STAT 24200 | Intro to Data Science          | Dr. Anthony Bergstrom         | UG     | GTA  | Fall 2024              | 2[^labs]                         |
 | CS 17600      | Data Engineering in Python     | Dr. Anthony Bergstrom         | UG     | GTA  | Spring 2024, 2023      | 2/1[^labs]                               |
