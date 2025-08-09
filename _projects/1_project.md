@@ -28,7 +28,7 @@ Players alternate turns, choosing a column to drop their token:
 
 ### 🔗 GitHub Repository
 
-[View Full Code on GitHub]([https://github.com/yourusername/connect4](https://github.com/pinakirm/Connect-Four)
+[View Full Code on GitHub]((https://github.com/pinakirm/Connect-Four)
 
 ---
 
