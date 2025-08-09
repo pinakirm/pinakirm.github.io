@@ -433,6 +433,11 @@ ninja.data = [{
           description: "A comparative analysis of TF-IDF and Okapi BM25 on real-world information retrieval tasks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-project-critical-factors-determining-movie-success",
+          title: 'Project: Critical Factors Determining Movie Success',
+          description: "An OLS Regression analysis to identify and quantify the key factors influencing movie box office performance.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
             },},{id: "projects-connect-4",
           title: 'Connect 4',
           description: "A 2-player alignment game in Java",
