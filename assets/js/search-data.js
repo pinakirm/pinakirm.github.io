@@ -443,6 +443,11 @@ ninja.data = [{
           description: "Tackling extreme class imbalance with robust resampling and carefully tuned ML models—while avoiding data leakage.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
+            },},{id: "projects-project-repo-and-repo-evaluation-under-simulated-attacks",
+          title: 'Project: RePO and RePO+ Evaluation under Simulated Attacks',
+          description: "Reproducing and extending RePO and RePO+ evaluation in Mininet, introducing new metrics and performance analysis.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project/";
             },},{id: "projects-connect-4",
           title: 'Connect 4',
           description: "A 2-player alignment game in Java",
