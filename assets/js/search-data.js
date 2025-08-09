@@ -448,6 +448,11 @@ ninja.data = [{
           description: "Reproducing and extending RePO and RePO+ evaluation in Mininet, introducing new metrics and performance analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
+            },},{id: "projects-project-patient-friendly-clinical-text-summarization",
+          title: 'Project: Patient-Friendly Clinical Text Summarization',
+          description: "Exploring transformer-based summarization models to improve patient comprehension of complex clinical notes.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
             },},{id: "projects-connect-4",
           title: 'Connect 4',
           description: "A 2-player alignment game in Java",
