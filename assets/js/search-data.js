@@ -438,6 +438,11 @@ ninja.data = [{
           description: "An OLS Regression analysis to identify and quantify the key factors influencing movie box office performance.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
+            },},{id: "projects-project-predicting-mitochondrial-genetic-disorders",
+          title: 'Project: Predicting Mitochondrial Genetic Disorders',
+          description: "Tackling extreme class imbalance with robust resampling and carefully tuned ML models—while avoiding data leakage.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-connect-4",
           title: 'Connect 4',
           description: "A 2-player alignment game in Java",
