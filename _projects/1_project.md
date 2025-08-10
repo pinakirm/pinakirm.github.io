@@ -3,7 +3,7 @@ layout: page
 title: Connect 4
 description: A 2-player alignment game in Java
 importance: 1
-category: theory
+category: games
 related_publications: false
 ---
 
