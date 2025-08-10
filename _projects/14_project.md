@@ -2,7 +2,7 @@
 layout: page
 title: "Project: Patient-Friendly Clinical Text Summarization"
 description: "Exploring transformer-based summarization models to improve patient comprehension of complex clinical notes."
-category: nlp
+category: ml
 importance: 3
 ---
 
