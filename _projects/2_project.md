@@ -2,7 +2,6 @@
 layout: page
 title: RPN Expression Evaluator
 description: A Java program to parse and evaluate infix expressions using stacks
-img: /assets/img/games/rpn_stack.png  # Optional: add a diagram or screenshot
 importance: 1
 category: theory
 related_publications: false
