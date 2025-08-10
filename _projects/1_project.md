@@ -2,9 +2,8 @@
 layout: page
 title: Connect 4
 description: A 2-player alignment game in Java
-img: /assets/img/games/connect4.png  # Optional: placeholder or later screenshot
 importance: 1
-category: games
+category: theory
 related_publications: false
 ---
 
