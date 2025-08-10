@@ -422,7 +422,7 @@ ninja.data = [{
           section: "News",},{id: "news-grateful-to-receive-the-graduate-teaching-assistant-award-from-purdue-cs-for-my-performance-in-cs-57800-statistical-machine-learning-fall-2023",
           title: 'Grateful to receive the Graduate Teaching Assistant Award from Purdue CS for my...',
           description: "",
-          section: "News",},{id: "news-presented-a-poster-on-my-paper-edlp-at-midwest-machine-learning-symposium-event-coverage-by-uchicago-dsi",
+          section: "News",},{id: "news-presented-a-poster-on-my-paper-edlp-at-midwest-machine-learning-symposium-event-coverage-by-uchicago-dsi-uchicago-campus-is-beautiful",
           title: 'Presented a poster on my paper, EDLP at Midwest Machine Learning Symposium. Event...',
           description: "",
           section: "News",},{id: "news-got-the-summer-commute-grant-thank-you-pgsg",
