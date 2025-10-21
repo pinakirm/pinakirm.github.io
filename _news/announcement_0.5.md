@@ -7,6 +7,6 @@ inline: true
 related_posts: false
 ---
 
-🎉 After several rounds of interviews, I’m honored to have been **selected as a Board Member on the Purdue Computer Science Undergraduate Student Board[USB](https://www.purdueusb.com)**!  
+🎉 After several rounds of interviews, I’m honored to have been **selected as a Board Member on the Purdue Computer Science Undergraduate Student Board[(USB)](https://www.purdueusb.com)**!  
 
 Excited to work with peers and faculty to enhance the **undergraduate experience** in the department through new initiatives, events, and student–faculty collaboration.
