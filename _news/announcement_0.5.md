@@ -1,8 +1,6 @@
 ---
 layout: post
 date: 2020-03-04 18:30:00-0400
-from: 2020-03
-to: 2021-05
 inline: true
 related_posts: false
 ---
