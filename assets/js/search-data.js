@@ -410,7 +410,7 @@ ninja.data = [{
           section: "News",},{id: "news-started-my-joint-ms-in-cs-stat-at-purdue",
           title: 'Started my Joint MS in CS+STAT at Purdue!',
           description: "",
-          section: "News",},{id: "news-will-be-serving-concurrently-as-undergraduate-graduate-liaison-on-the-purdue-computer-science-undergraduate-student-board-usb-and-undergraduate-committee-representative-on-the-graduate-student-board-gsb-looking-forward-to-bridging-communication-between-the-two-sister-organizations-by-representing-undergraduate-perspectives-at-gsb-meetings-and-graduate-feedback-at-usb-meetings-excited-to-be-working-on-addressing-student-concerns-enhancing-cross-level-collaboration-and-improving-departmental-inclusivity",
+          section: "News",},{id: "news-will-be-serving-concurrently-as-undergraduate-graduate-liaison-on-the-purdue-computer-science-undergraduate-student-board-usb-and-undergraduate-committee-representative-on-the-graduate-student-board-gsb-looking-forward-to-bridging-communication-between-the-sister-organizations-by-representing-undergraduate-perspectives-at-gsb-meetings-and-graduate-feedback-at-usb-meetings-i-m-excited-to-address-student-concerns-enhance-cross-level-collaboration-and-improve-departmental-inclusivity",
           title: '📣 Will be serving concurrently as Undergraduate-Graduate Liaison on the Purdue Computer Science...',
           description: "",
           section: "News",},{id: "news-as-a-purdue-cs-ms-student-and-alum-i-shared-why-staying-at-purdue-for-graduate-studies-is-a-smart-choice-highlighting-flexible-programs-teaching-assistantships-and-exciting-ai-ml-research-opportunities-read-more-here",
