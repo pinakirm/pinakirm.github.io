@@ -11,6 +11,7 @@ Below is a structured summary of the courses I've assisted with at Purdue Univer
 
 | Course        | Title                          | Instructor                    | Level  | Role | Term(s)                | Units Led    |
 |---------------|--------------------------------|-------------------------------|--------|------|------------------------|-----------------------------------
+| CS 44100      | Data Science Capstone          | Dr. Mary Anne Smart             | UG      | GTA  | Spring 2026              | 5[^teams]                        |
 | CS 57300      | Data Mining                    | Dr. Rajiv Khanna              | G      | Head GTA  | Fall 2025              | NA                               |
 | CS 44100      | Data Science Capstone          | Dr. Anthony Bergstrom         | UG     | GTA  | Spring 2025            | 4[^teams]                               |
 | CS/STAT 24200 | Intro to Data Science          | Dr. Anthony Bergstrom         | UG     | GTA  | Fall 2024              | 2[^labs]                         |
