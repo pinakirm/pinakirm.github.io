@@ -14,7 +14,7 @@ Below is a structured summary of the courses I've assisted with at Purdue Univer
 | CS 44100      | Data Science Capstone          | Dr. Mary Anne Smart             | UG      | GTA  | Spring 2026              | 5[^teams]                        |
 | CS 57300      | Data Mining                    | Dr. Rajiv Khanna              | G      | Head GTA  | Fall 2025              | NA                               |
 | CS 44100      | Data Science Capstone          | Dr. Anthony Bergstrom         | UG     | GTA  | Spring 2025            | 4[^teams]                               |
-| CS/STAT 24200 | Intro to Data Science          | Dr. Anthony Bergstrom         | UG     | GTA  | Fall 2024              | 2[^labs]                         |
+| CS/STAT 24200 | Introduction to Data Science   | Dr. Anthony Bergstrom         | UG     | GTA  | Fall 2024              | 2[^labs]                         |
 | CS 17600      | Data Engineering in Python     | Dr. Anthony Bergstrom         | UG     | GTA  | Spring 2024, 2023      | 2/1[^labs]                               |
 | CS 57800      | Statistical Machine Learning   | Dr. Ruqi Zhang                | G   | Head GTA  | Fall 2023              | NA
 | [CS 57100](https://www.cs.purdue.edu/homes/clifton/cs57100/)      | Artificial Intelligence        | Dr. Chris Clifton             | G   | GTA  | Fall 2022              | NA|
