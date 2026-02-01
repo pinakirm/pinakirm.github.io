@@ -447,7 +447,7 @@ ninja.data = [{
           title: 'EDLP⛰️ and HiSS🐍 accepted as workshop papers at SPIGM@NeuRIPS!',
           description: "",
           section: "News",},{id: "news-hiss-is-accepted-at-aistats-2026",
-          title: 'HiSS🐍 is accepted at AISTATS 2026 !!',
+          title: 'HiSS🐍 is accepted at AISTATS 2026 !',
           description: "",
           section: "News",},{id: "projects-project-document-ranking-using-tf-idf-and-okapi-bm25",
           title: 'Project: Document Ranking using TF-IDF and Okapi BM25',
