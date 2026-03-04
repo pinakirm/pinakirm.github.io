@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be serving as a judge for Software Pillar Presentations at [Momentum@Purdue](https://www.purduemomentum.org/). 
+Invited to serve as a judge for the Software Pillar midpoint presentations at [Momentum@Purdue](https://www.purduemomentum.org/).
