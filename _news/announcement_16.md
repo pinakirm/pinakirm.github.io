@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Recognized as a (Gold Reviewer)[https://x.com/icmlconf/status/2054696826851234151] for ICML 2026 ! 🥇
+Recognized as a [Gold Reviewer](https://x.com/icmlconf/status/2054696826851234151) for ICML 2026 ! 🥇
