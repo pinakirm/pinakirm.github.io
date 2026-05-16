@@ -25,7 +25,7 @@ announcements:
 
 ---
 
-Hi, I am Pinaki! I am a third-year Ph.D. student in Computer Science at Purdue University, advised by [Dr. Rajiv Khanna](https://rjvak7.github.io/). 
+Hi, I am Pinaki! I am a Ph.D. student in Computer Science at Purdue University, advised by [Dr. Rajiv Khanna](https://rjvak7.github.io/). 
 
 My research focuses on bridging Statistical foundations of Machine Learning with practical challenges. I study Data-centric AI, particularly ML-enabled Data Annotation, Data Quality Estimation, and Efficient Data Usage. I am also interested in Probabilistic Inference under MCMC Sampling. Lately, I’ve been exploring how these rigorous, theory-driven principles can be applied to LLMs to better understand and improve their behavior.
 
