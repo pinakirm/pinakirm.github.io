@@ -471,7 +471,7 @@ ninja.data = [{
           title: 'Recognized as a Gold Reviewer for ICML 2026 ! 🥇',
           description: "",
           section: "News",},{id: "news-ca-asi-and-adastrat-asi-️-accepted-as-workshop-papers-at-demo-icml",
-          title: '🎉 CA-ASI🎢 and AdaStrat-ASI🗂️ accepted as workshop papers at DEMO@ICML !',
+          title: 'CA-ASI🎢 and AdaStrat-ASI🗂️ accepted as workshop papers at DEMO@ICML !',
           description: "",
           section: "News",},{id: "projects-project-document-ranking-using-tf-idf-and-okapi-bm25",
           title: 'Project: Document Ranking using TF-IDF and Okapi BM25',
