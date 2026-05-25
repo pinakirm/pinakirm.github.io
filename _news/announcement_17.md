@@ -5,6 +5,5 @@ inline: true
 related_posts: false
 ---
 
-
-🎉 CA-ASI🎢 and AdaStrat-ASI🗂️ accepted as workshop papers at [DEMO@ICML](https://decision-making-offline2online-icml2026.github.io/) !
+CA-ASI🎢 and AdaStrat-ASI🗂️ accepted as workshop papers at [DEMO@ICML](https://decision-making-offline2online-icml2026.github.io/) !
 
