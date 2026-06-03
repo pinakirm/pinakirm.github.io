@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-Below is a structured summary of the courses I've assisted with at Purdue University.
+12 semesters across 7 unique courses; served twice as Head GTA for graduate-level courses.
 
 
 | Course | Title | Term | Instructor | Level | Role | Units Led |
