@@ -13,7 +13,7 @@ Below is a structured summary of the courses I've assisted with at Purdue Univer
 | Course | Title | Term | Instructor | Level | Role | Units Led |
 |--------|-------|------|------------|-------|------|-----------|
 | **CS 17600** | **Data Engineering in Python** | Spring 2023 | Dr. Anthony Bergstrom | UG | GTA | 1[^labs]  |
-| | | Spring 2024 | Dr. Anthony Bergstrom | UG | GTA | 2 labs |
+| | | Spring 2024 | Dr. Anthony Bergstrom | UG | GTA | 2[^labs] |
 | **CS/STAT 24200** | **Introduction to Data Science** | Fall 2024 | Dr. Anthony Bergstrom | UG | GTA | 2[^labs]  |
 | **CS 25100** | **Data Structures & Algorithms** | Spring 2019 | Melanie Lotz | UG | UTA | 2[^labs]  |
 | | | Fall 2019 | Dr. Gustavo Rodriguez-Rivera | UG | UTA | 1[^labs]  |
