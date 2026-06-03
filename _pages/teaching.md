@@ -9,19 +9,22 @@ nav_order: 6
 
 Below is a structured summary of the courses I've assisted with at Purdue University.
 
-| Course        | Title                          | Instructor                    | Level  | Role | Term(s)                | Units Led    |
-|---------------|--------------------------------|-------------------------------|--------|------|------------------------|-----------------------------------
-| CS 44100      | Data Science Capstone          | Dr. Mary Anne Smart             | UG      | GTA  | Spring 2026              | 4[^teams]                        |
-| CS 57300      | Data Mining                    | Dr. Rajiv Khanna              | G      | Head GTA  | Fall 2025              | NA                               |
-| CS 44100      | Data Science Capstone          | Dr. Anthony Bergstrom         | UG     | GTA  | Spring 2025            | 4[^teams]                               |
-| CS/STAT 24200 | Introduction to Data Science   | Dr. Anthony Bergstrom         | UG     | GTA  | Fall 2024              | 2[^labs]                         |
-| CS 17600      | Data Engineering in Python     | Dr. Anthony Bergstrom         | UG     | GTA  | Spring 2024, 2023      | 2/1[^labs]                               |
-| CS 57800      | Statistical Machine Learning   | Dr. Ruqi Zhang                | G   | Head GTA  | Fall 2023              | NA
-| [CS 57100](https://www.cs.purdue.edu/homes/clifton/cs57100/)      | Artificial Intelligence        | Dr. Chris Clifton             | G   | GTA  | Fall 2022              | NA|
-| [CS 57300](https://www.cs.purdue.edu/homes/clifton/cs57300/)      | Data Mining                    | Dr. Chris Clifton             | G   | GTA  | Spring 2022            | NA|
-| CS 25100      | Data Structures & Algorithms   | Dr. Andres Bejarano           | UG     | GTA  | Fall 2021              | 1[^labs]                                         |
-| CS 25100      | Data Structures & Algorithms   | Dr. Gustavo Rodriguez-Rivera  | UG     | UTA  | Fall 2019              | 1[^labs]                                           |
-| CS 25100      | Data Structures & Algorithms   | Melanie Lotz                  | UG     | UTA  | Spring 2019            | 2[^labs]                                            |  
+
+| Course | Title | Term | Instructor | Level | Role | Units Led |
+|--------|-------|------|------------|-------|------|-----------|
+| **CS 17600** | **Data Engineering in Python** | Spring 2023 | Dr. Anthony Bergstrom | UG | GTA | 1[^labs]  |
+| | | Spring 2024 | Dr. Anthony Bergstrom | UG | GTA | 2 labs |
+| **CS/STAT 24200** | **Introduction to Data Science** | Fall 2024 | Dr. Anthony Bergstrom | UG | GTA | 2[^labs]  |
+| **CS 25100** | **Data Structures & Algorithms** | Spring 2019 | Melanie Lotz | UG | UTA | 2[^labs]  |
+| | | Fall 2019 | Dr. Gustavo Rodriguez-Rivera | UG | UTA | 1[^labs]  |
+| | | Fall 2021 | Dr. Andres Bejarano | UG | GTA | 1[^labs]  |
+| **CS 44100** | **Data Science Capstone** | Spring 2025 | Dr. Anthony Bergstrom | UG | GTA | 4[^teams] |
+| | | Spring 2026 | Dr. Mary Anne Smart | UG | GTA | 4[^teams] |
+| **[CS 57100](https://www.cs.purdue.edu/homes/clifton/cs57100/)** | **Artificial Intelligence** | Fall 2022 | Dr. Chris Clifton | G | GTA | — |
+| **[CS 57300](https://www.cs.purdue.edu/homes/clifton/cs57300/)** | **Data Mining** | Spring 2022 | Dr. Chris Clifton | G | GTA | — |
+| | | Fall 2025 | Dr. Rajiv Khanna | G | Head GTA | — |
+| **CS 57800** | **Statistical Machine Learning** | Fall 2023 | Dr. Ruqi Zhang | G | Head GTA | — |
+
 
 <!--
 
