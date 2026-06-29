@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Recognized as a [Gold Reviewer](https://www.linkedin.com/posts/pinakim98_icml2026-activity-7460947612976787456-UJRm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACf0cZ0BcWEvIQV4o4mwQNnHEVou_WHHVkc) for ICML 2026 ! 🥇
+Recognized as a [Gold Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee) for ICML 2026 ! 🥇
