@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented EDLP and HiSS at [Purdue AI Research Showcase](https://www.rcac.purdue.edu/showcase#schedule). Here is the [Event Coverage](https://www.rcac.purdue.edu/news/7667).
+Presented [EDLP and HiSS](https://ipai.research.purdue.edu/research/) at [Purdue AI Research Showcase](https://www.rcac.purdue.edu/showcase#schedule). Here is the [Event Coverage](https://www.rcac.purdue.edu/news/7667).
