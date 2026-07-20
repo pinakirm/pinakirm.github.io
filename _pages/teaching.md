@@ -22,7 +22,7 @@ nav_order: 6
 | | | Spring 2026 | Dr. Mary Anne Smart | UG | GTA | 4[^teams] |
 | **CS 57100** | **Artificial Intelligence** | [Fall 2022](https://www.cs.purdue.edu/homes/clifton/cs57100/) | Dr. Chris Clifton | G | GTA | — |
 | **CS 57300** | **Data Mining** | [Spring 2022](https://www.cs.purdue.edu/homes/clifton/cs57300/) | Dr. Chris Clifton | G | GTA | — |
-| | | Fall 2025 | Dr. Rajiv Khanna | G | Head GTA | — |
+| | | Fall 2026, Fall 2025 | Dr. Rajiv Khanna | G | Head GTA | — |
 | **CS 57800** | **Statistical Machine Learning** | Fall 2023 | Dr. Ruqi Zhang | G | Head GTA | — |
 
 
