@@ -34,3 +34,26 @@ In Summer 2023, I completed my M.S. in Computer Science and Statistics at Purdue
 If you’re another researcher, outside Purdue, working in Machine Learning, Mathematical Statistics, or Healthcare+AI (a field I am deeply passionate about!), please feel free to email me. I welcome conversations about potential research collaborations and ways my expertise might be helpful. For current Purdue students interested in working with me, please email me to set up a one-off coffee chat if you’d like to discuss some research ideas. 
 
 CV: Available upon request. Please feel free to email me if you’d like a copy.
+
+---
+
+## Service & Professional Activities
+
+
+
+**Journal / Conference / Workshop Reviewer**:
+- AISTATS (2027)
+- ICLR (2027)
+- IJCAI-ECAI (2026)
+- NeurIPS (2026)
+- ICML (2026)
+- TMLR (Since 2026)
+- IEEE Transactions on Consumer Electronics
+- Structured Probabilistic Inference & Generative Modeling Workshop @ NeurIPS (2025)
+
+**Judging & Committees**:
+- Purdue Undergraduate Research Conference, Posters & Talks Research Judge (Spring 2026) 
+- Purdue CS GTA Training Seminar, GTA Panelist (Fall 2024)
+- Purdue CS PhD Visit Days, Graduate Student Volunteer (Spring 2026, 2024, 2022)
+- Purdue CS Faculty Search Committee, Graduate Student Interviewer (Spring 2025, 2024, 2023)
+- Purdue CS Department Quinquennial External Review, Graduate Student Panelist (Spring 2022)
