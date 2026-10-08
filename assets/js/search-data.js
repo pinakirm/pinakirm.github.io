@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/service/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
+          title: "teaching",
           description: "A summary of my teaching assistantships at Purdue University.",
           section: "Navigation",
           handler: () => {
