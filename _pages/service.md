@@ -25,10 +25,10 @@ nav_order: 5
 - **Purdue CS PhD Visit Days:** Graduate Student Volunteer (Spring 2026, 2024, 2022)
 
 ### Student Governance & Leadership
-- **Computer Science Graduate Student Board (GSB):** Undergraduate Committee Representative (Oct 2021 – May 2023)
-- **Computer Science Undergraduate Student Board (USB):** Undergraduate-Graduate Student Liaison (Aug 2021 – May 2023)
-- **Computer Science Undergraduate Student Board (USB):** Board Member (Feb 2019 – May 2021)
+- **Computer Science Graduate Student Board (GSB):** Undergraduate Committee Representative (Fall 2021 – Spring 2023)
+- **Computer Science Undergraduate Student Board (USB):** Undergraduate-Graduate Student Liaison (Fall 2021 – Spring 2023)
+- **Computer Science Undergraduate Student Board (USB):** Board Member (Spring 2019 – Spring 2021)
 
 ### Community Outreach & Mentorship
-- **Global Science Partners:** Mentor (Fall 2020, Spring 2021)
+- **Global Science Partners:** Mentor (Fall 2020 - Spring 2021)
 - **Reach Out for Computer Science (ROCS):** K-12 Outreach Volunteer (Fall 2018)
