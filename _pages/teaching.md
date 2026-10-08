@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: A summary of my teaching assistantships at Purdue University.
 nav: true
 nav_order: 6
