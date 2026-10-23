@@ -1,14 +1,15 @@
 {% capture footer_contents %}
-  &copy; Copyright {{ site.time | date: '%Y' }}
-  {{ site.first_name }}
-  {{ site.middle_name }}
-  {{ site.last_name }}. {{ site.footer_text }}
+  &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
+  {{ site.footer_text }}
   {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
   {% endif %}
   {% if site.last_updated %}
     Last updated: {{ 'now' | date: '%B %d, %Y' }}.
   {% endif %}
+  <div class="mt-2">
+    <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=EuSQT5Mjul0sU9R8f9XheL6-0SXci0gjuxV2_9Xg5oI&cl=ffffff&w=a"></script>
+  </div>
 {% endcapture %}
 
 {% if site.footer_fixed %}
@@ -22,10 +23,8 @@
     {% if site.newsletter.enabled %}
       {% include newsletter.liquid %}
     {% endif %}
-
     <div class="container">
       {{ footer_contents }}
-      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=EuSQT5Mjul0sU9R8f9XheL6-0SXci0gjuxV2_9Xg5oI&cl=ffffff&w=a"></script>
     </div>
   </footer>
 {% endif %}
