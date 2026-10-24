@@ -8,31 +8,34 @@
     Last updated: {{ 'now' | date: '%B %d, %Y' }}.
   {% endif %}
 
-  <div style="display: flex; justify-content: center; margin-top: 8px;">
-    <div style="width: 200px; height: 110px; overflow: hidden;">
-      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=EuSQT5Mjul0sU9R8f9XheL6-0SXci0gjuxV2_9Xg5oI&cl=1c1c1d&w=a"></script>
-    </div>
-  </div>
+  <div style="position: relative; width: 200px; height: 110px; margin: 12px auto 0; overflow: hidden;">
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=EuSQT5Mjul0sU9R8f9XheL6-0SXci0gjuxV2_9Xg5oI&cl=1c1c1d&w=a"></script>
+</div>
 {% endcapture %}
 
 <style>
   footer.site-footer-dark {
+    position: relative !important;   /* normal flow: no overlay */
+    bottom: auto !important;
+    z-index: auto !important;
+    clear: both;
+    margin-top: 3rem;
+    padding: 20px 0;
     background: #1c1c1d !important;
-    color: #e6e6e6 !important;
     border-top: none !important;
-    padding: 10px 0;
   }
-  footer.site-footer-dark a { color: #e6e6e6 !important; }
+  footer.site-footer-dark,
+  footer.site-footer-dark .container,
+  footer.site-footer-dark .container * {
+    color: #e6e6e6 !important;
+  }
   footer.site-footer-dark a:hover { color: var(--global-theme-color) !important; }
 </style>
 
-{% if site.footer_fixed %}
-  <footer class="fixed-bottom site-footer-dark" role="contentinfo">
-    <div class="container mt-0 text-center">{{ footer_contents }}</div>
-  </footer>
-{% else %}
-  <footer class="sticky-bottom mt-5 site-footer-dark" role="contentinfo">
-    {% if site.newsletter.enabled %}{% include newsletter.liquid %}{% endif %}
-    <div class="container text-center">{{ footer_contents }}</div>
-  </footer>
+<footer class="site-footer-dark" role="contentinfo">
+  {% if site.newsletter.enabled %}{% include newsletter.liquid %}{% endif %}
+  <div class="container text-center">{{ footer_contents }}</div>
+</footer>
+
+
 {% endif %}
